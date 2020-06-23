@@ -1,0 +1,9 @@
+.error {
+    color:red;
+}
+#empty {
+    padding: 12px;
+    font-weight: bold;
+    color:orange;
+    font-size:12px;
+}
